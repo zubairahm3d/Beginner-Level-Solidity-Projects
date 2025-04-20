@@ -1,6 +1,6 @@
 # Basic Smart Contract Fundamentals (1-15)
 
-A collection of foundational smart contract examples to learn Solidity and Ethereum development. Each project demonstrates a core concept, from storing data to working with structs and mappings.
+A collection of foundational smart contract projects to learn Solidity and Ethereum development. Each project demonstrates a core concept, from storing data to working with structs and mappings.
 
 ---
 
