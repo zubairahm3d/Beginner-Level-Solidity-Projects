@@ -1,7 +1,11 @@
-## 🔑 Key Concepts:
-contract HelloWorld: Defines the smart contract.
+## 1. Hello World Smart Contract  
+   **Description**: A minimal smart contract with a function that returns `"Hello, World!"`. 
 
 ---
+
+### 🔑 Key Concepts:
+
+- contract HelloWorld: Defines the smart contract.
 
 - public: The function can be called externally.
 
