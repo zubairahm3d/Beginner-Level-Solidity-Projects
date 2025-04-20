@@ -1,6 +1,6 @@
 # Smart Contract Security and Access Control (31-45)
 
-A collection of intermediate-to-advanced smart contract examples focusing on security patterns, access control mechanisms, and practical blockchain interactions. These projects emphasize secure development practices and real-world contract functionalities.
+A collection of intermediate-to-advanced smart contract projects focusing on security patterns, access control mechanisms, and practical blockchain interactions. These projects emphasize secure development practices and real-world contract functionalities.
 
 ---
 

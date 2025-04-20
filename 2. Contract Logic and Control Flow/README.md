@@ -1,6 +1,6 @@
 # Contract Logic and Control Flow (16-30)
 
-A collection of intermediate smart contract examples focusing on control structures, function modifiers, Ether handling, and event logging. These projects build on foundational concepts to introduce more complex contract behaviors.
+A collection of intermediate smart contract projects focusing on control structures, function modifiers, Ether handling, and event logging. These projects build on foundational concepts to introduce more complex contract behaviors.
 
 ---
 
