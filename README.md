@@ -1,4 +1,4 @@
-# 🧠 Ethereum / Solidity Projects (Beginner)**
+# 🧠 **Ethereum / Solidity Projects (Beginner)**
 
 ## Basic Smart Contract Fundamentals (1-15)
 1. Hello World Smart Contract
