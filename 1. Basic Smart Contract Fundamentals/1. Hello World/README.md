@@ -1,4 +1,4 @@
-🔑 ## Key Concepts:
+## 🔑 Key Concepts:
 contract HelloWorld: Defines the smart contract.
 
 ---
