@@ -1,4 +1,4 @@
-# Payable Function Example
+# 21 - Payable Function
 
 ## 📄 Description
 
