@@ -1,0 +1,6 @@
+[submodule "3. Smart Contract Security and Access Control/39. Import OpenZeppelin and Use Ownable/lib/forge-std"]
+	path = 3. Smart Contract Security and Access Control/39. Import OpenZeppelin and Use Ownable/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "3. Smart Contract Security and Access Control/39. Import OpenZeppelin and Use Ownable/lib/openzeppelin-contracts"]
+	path = 3. Smart Contract Security and Access Control/39. Import OpenZeppelin and Use Ownable/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
