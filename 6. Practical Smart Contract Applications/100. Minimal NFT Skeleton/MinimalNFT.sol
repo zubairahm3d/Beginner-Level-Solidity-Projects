@@ -48,5 +48,8 @@ contract MinimalNFT {
     function tokenURI(uint256 tokenId) public view returns (string memory) {
         require(_owners[tokenId] != address(0), "Nonexistent token");
         return _tokenURIs[tokenId];
+
+        // // Hardcoded metadata URI (could be same for all, or constructed from baseURI)
+        // return "https://example.com/metadata.json";
     }
 }
